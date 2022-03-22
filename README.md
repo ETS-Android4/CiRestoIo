@@ -13,7 +13,7 @@ The applications offers some operations after identifying banknotes in the photo
 * The user can insert an import and the app calculates the change or the difference to reach the amount displayed
 * Converts the amount displayed in some differents currencies (Dollar, etc ... )
 
-![alt text]() 
+![alt text](doc/img/stat.jpg) 
 
 ## Technologies
 
