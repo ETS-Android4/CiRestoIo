@@ -49,6 +49,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         openCamera.setOnClickListener(this);
 
         new ApiRequest().execute(API_URL);
+
         try {
             Thread.sleep(1000);
         } catch (InterruptedException e) {
